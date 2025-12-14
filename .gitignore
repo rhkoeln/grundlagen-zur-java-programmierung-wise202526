@@ -1,0 +1,48 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# IDEs
+.idea/
+*.iml
+.vscode/
+*.class
+
+# Build outputs
+/target/
+/build/
+/out/
+/dist/
+/bin/
+/classes/
+
+# Maven
+.mvn/
+target/
+
+# Gradle
+.gradle/
+build/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Java packages and archives
+*.jar
+*.war
+*.ear
+
+# Logs and temp
+*.log
+*.tmp
+*.swp
+
+# Test/coverage
+coverage/
+.coverage
+.nyc_output/
+
+# Other
+.env
