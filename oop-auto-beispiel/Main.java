@@ -1,4 +1,6 @@
-public class HalloKoeln {
+import fahrzeuge.Auto;
+
+public class Main {
     public static void main(String[] args) {
         System.out.println("Beispiel Programm mit Auto");
 
